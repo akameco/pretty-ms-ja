@@ -1,6 +1,6 @@
 {
   "name": "pretty-ms-ja",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convet milliseconds to a human readable string for jp",
   "license": "MIT",
   "repository": "akameco/pretty-ms-ja",
