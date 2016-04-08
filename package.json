@@ -1,0 +1,40 @@
+{
+  "name": "pretty-ms-ja",
+  "version": "0.0.0",
+  "description": "Convet milliseconds to a human readable string for jp",
+  "license": "MIT",
+  "repository": "akameco/pretty-ms-ja",
+  "author": {
+    "name": "akameco",
+    "email": "akameco.t@gmail.com",
+    "url": "akameco.github.io"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "pretty",
+    "jp",
+    "ms",
+    "time",
+    "時間",
+    "分",
+    "秒",
+    "ミリ秒",
+    "日"
+  ],
+  "dependencies": {
+    "is-finite": "^1.0.1",
+    "parse-ms": "^1.0.1"
+  },
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "xo": "^0.13.0"
+  }
+}
