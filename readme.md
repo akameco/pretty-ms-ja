@@ -1,5 +1,7 @@
 # pretty-ms-ja [![Build Status](https://travis-ci.org/akameco/pretty-ms-ja.svg?branch=master)](https://travis-ci.org/akameco/pretty-ms-ja)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/pretty-ms-ja.svg)](https://greenkeeper.io/)
+
 > convert ms to human readable string for Japanese: 1337000000 => 15日11時間23分20秒
 
 
